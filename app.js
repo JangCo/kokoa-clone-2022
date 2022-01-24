@@ -1,0 +1,1 @@
+const time = document.querySelector(".status-bar__time");
